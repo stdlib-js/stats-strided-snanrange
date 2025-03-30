@@ -319,7 +319,7 @@ int main( void ) {
 -   <span class="package-name">[`@stdlib/stats-base/nanrange`][@stdlib/stats/base/nanrange]</span><span class="delimiter">: </span><span class="description">calculate the range of a strided array, ignoring NaN values.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/snanmax`][@stdlib/stats/strided/snanmax]</span><span class="delimiter">: </span><span class="description">calculate the maximum value of a single-precision floating-point strided array, ignoring NaN values.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/snanmin`][@stdlib/stats/strided/snanmin]</span><span class="delimiter">: </span><span class="description">calculate the minimum value of a single-precision floating-point strided array, ignoring NaN values.</span>
--   <span class="package-name">[`@stdlib/stats-base/srange`][@stdlib/stats/base/srange]</span><span class="delimiter">: </span><span class="description">calculate the range of a single-precision floating-point strided array.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/srange`][@stdlib/stats/strided/srange]</span><span class="delimiter">: </span><span class="description">calculate the range of a single-precision floating-point strided array.</span>
 
 </section>
 
@@ -413,7 +413,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/strided/snanmin]: https://github.com/stdlib-js/stats-strided-snanmin
 
-[@stdlib/stats/base/srange]: https://github.com/stdlib-js/stats-base-srange
+[@stdlib/stats/strided/srange]: https://github.com/stdlib-js/stats-strided-srange
 
 <!-- </related-links> -->
 

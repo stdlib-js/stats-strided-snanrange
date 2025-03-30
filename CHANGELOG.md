@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`63eeda1`](https://github.com/stdlib-js/stdlib/commit/63eeda110c5f6ff1bea1d99281b147ba92ec5377) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`7ecae0f`](https://github.com/stdlib-js/stdlib/commit/7ecae0fb746400a1a5bc57fcea425b15af6c1ca2) - **feat:** add `stats/strided/snanrange` _(by Aayush Khanna)_
 
 </details>
